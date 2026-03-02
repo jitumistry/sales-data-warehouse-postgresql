@@ -92,5 +92,4 @@ Features:
 * Incremental fact loading
 * Debugging join-based ETL failures
 
----
 
