@@ -94,6 +94,3 @@ Features:
 
 ---
 
-* Help you structure this like a portfolio project
-
-You built something solid. Let’s present it like a professional.
